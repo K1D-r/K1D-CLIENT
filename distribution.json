@@ -16,9 +16,9 @@
       "address": "",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "Minecraft"
-        "largeImageText": "K1D CODING STUDIO"
-        "largeImageKey": "_5_"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
