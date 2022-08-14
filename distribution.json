@@ -16,9 +16,9 @@
       "address": "",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "MINECRAFT",
+        "largeImageText": "K1D CLIENT",
+        "largeImageKey": "_5_"
       },
       "mainServer": false,
       "autoconnect": false,
