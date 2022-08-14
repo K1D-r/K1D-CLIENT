@@ -16,9 +16,9 @@
       "address": "",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
       },
       "mainServer": false,
       "autoconnect": false,
