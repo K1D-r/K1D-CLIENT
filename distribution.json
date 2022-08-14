@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "937657456862040115",
-    "smallImageText": "K1D CLIENT",
-    "smallImageKey": "_5_"
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -16,7 +16,7 @@
       "address": "",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "MINECRAFT",
+        "shortId": "",
         "largeImageText": "K1D CLIENT",
         "largeImageKey": "_5_"
       },
